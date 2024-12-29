@@ -1,37 +1,33 @@
-# Hi there, I'm 0xGu4rdI4N 👋
+# Hi there, I'm Raunak 👋
 
-![GitHub followers](https://img.shields.io/github/followers/0xGu4rdI4N?style=social)
-![GitHub stars](https://img.shields.io/github/stars/0xGu4rdI4N?style=social)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in cybersecurity, open-source projects, and innovative technology.
+Welcome to my GitHub profile! I'm a passionate low-level developer with a keen interest in cybersecurity, open-source projects, and innovative technology.
 
 ## 🔭 Current Projects
-- **[Project Name](https://github.com/0xGu4rdI4N/project-name)**: Brief description of the project.
-- **[Another Project](https://github.com/0xGu4rdI4N/another-project)**: Brief description of the project.
+- **[Project Name](https://github.com/0xGu4rdI4N/os_rust)**: Its a operating system written in Rust.
 
 ## 🌱 Learning and Development
 I'm currently expanding my knowledge in:
 - Advanced cybersecurity techniques
-- Cloud computing and DevOps
-- Machine learning and AI
+- Rust and OS internals
+- Deep learning and AI
 
 ## 💬 Ask me about
 - Cybersecurity best practices
-- Open-source contributions
-- Innovative tech solutions
+- OS internals
+- Neural Nets
 
 ## 📫 How to reach me
 - GitHub: [0xGu4rdI4N](https://github.com/0xGu4rdI4N)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/raunak-kumar-10b7692a1)
+- Twitter: [@YourTwitterHandle](https://x.com/Gu4rd_I4N)
 
 ## ⚡ Fun fact
-I love exploring new technologies and applying them to solve real-world problems. In my free time, I enjoy participating in hackathons and cybersecurity challenges.
+I love exploring low-level concepts and deep learning networks. In my free time, I enjoy participating in ctfs.
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
