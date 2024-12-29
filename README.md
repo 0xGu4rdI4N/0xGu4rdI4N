@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate low-level developer with a keen interest in cybersecurity, open-source projects, and innovative technology.
 
 ## 🔭 Current Projects
-- **[Project Name](https://github.com/0xGu4rdI4N/os_rust)**: Its a operating system written in Rust.
+- **[Guard OS](https://github.com/0xGu4rdI4N/os_rust)**: Its a operating system written in Rust.
 
 ## 🌱 Learning and Development
 I'm currently expanding my knowledge in:
@@ -18,8 +18,8 @@ I'm currently expanding my knowledge in:
 
 ## 📫 How to reach me
 - GitHub: [0xGu4rdI4N](https://github.com/0xGu4rdI4N)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/raunak-kumar-10b7692a1)
-- Twitter: [@YourTwitterHandle](https://x.com/Gu4rd_I4N)
+- LinkedIn: [Raunak Kumar](www.linkedin.com/in/raunak-kumar-10b7692a1)
+- Twitter: [Gu4rd_I4N](https://x.com/Gu4rd_I4N)
 
 ## ⚡ Fun fact
 I love exploring low-level concepts and deep learning networks. In my free time, I enjoy participating in ctfs.
