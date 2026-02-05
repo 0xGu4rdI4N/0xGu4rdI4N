@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a deep focus on **Artificial Intelligence**, particularly **AI for Science (AI4Science)**. I also maintain a strong interest in low-level systems, cybersecurity, and open-source innovation.
 
-## 🔭 Current Projects
-- **[Guard OS](https://github.com/0xGu4rdI4N/os_rust)**: Its a operating system written in Rust.
-
 ## 🌱 Learning and Development
 I'm currently expanding my knowledge in:
 - **AI4Science**: Geometric Deep Learning, Protein Design, and Molecular modeling
