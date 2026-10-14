@@ -8,7 +8,7 @@
   <a href="https://github.com/0xGu4rdI4N"><img src="https://img.shields.io/badge/GitHub-0xGu4rdI4N-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/raunak-kumar-10b7692a1/"><img src="https://img.shields.io/badge/LinkedIn-Raunak%20Kumar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/Gu4rd_I4N"><img src="https://img.shields.io/badge/Twitter-@Gu4rd__I4N-000000?style=flat-square&logo=x" alt="Twitter" /></a>
-  <a href="https://0xgu4rdian.github.io/blog"><img src="https://img.shields.io/badge/Blog-0xGu4rdI4N-FF5733?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://0xgu4rdi4n.github.io/blog/"><img src="https://img.shields.io/badge/Blog-0xGu4rdI4N-FF5733?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
 </p>
 
 ---
